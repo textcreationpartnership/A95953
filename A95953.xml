@@ -1,0 +1,305 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A vindication of the army under the command of Sir Thomas Fairfax, with an answer to several objections made against them, &amp;c.</title>
+            <author>England and Wales. Parliament. House of Lords.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95953</idno>
+            <idno type="STC">Wing V500</idno>
+            <idno type="STC">Thomason 669.f.11[44]</idno>
+            <idno type="STC">ESTC R210556</idno>
+            <idno type="EEBO-CITATION">99869342</idno>
+            <idno type="PROQUEST">99869342</idno>
+            <idno type="VID">162693</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95953)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162693)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 246:669f11[44])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A vindication of the army under the command of Sir Thomas Fairfax, with an answer to several objections made against them, &amp;c.</title>
+                  <author>England and Wales. Parliament. House of Lords.</author>
+               </titleStmt>
+               <editionStmt>
+                  <edition>The second edition, corrected and enlarged.</edition>
+               </editionStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1647]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>The pamphlet "Heads presented by the army to the Kings Majesty" is false scandalous, and injurious to us, and has never been sent by the King -- Cf. Steele I,  2711.</note>
+                  <note>The second edition of: A vindication of the army under the command of his Excellency Sir Thomas Fairfax, concerning a pamphlet lately printed and published, intituled, Heads presented by the army to the Kings Majesty.</note>
+                  <note>At foot of page: It is desired that this be set up in parish churches, and publick places, throughout this kingdom and dominion of Wales, for their information, &amp;c. The second edition, corrected and enlarged. 1647.</note>
+                  <note>Annotation on Thomason copy: "July. 15. 1647".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  Militia --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-06</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:162693:1" rendition="simple:additions"/>
+            <head>A VINDICATION
+of the Army, under the command of Sir Thomas Fairfax, with an anſwer to ſeveral Objections made againſt them, &amp;c.</head>
+            <p>
+               <seg rend="decorInit">I</seg>Naſmuch as God did ſharply reprove and correct his, for keeping
+divers Statute, and Commandments, yea of kings, as appears Mica.
+6. 16. 15. Hoſ. 5. 11. we learn that unlawfull Commands are not to
+be obeyed, and that they who are to obey them are to judge of the lawful<g ref="char:EOLhyphen"/>nes
+of them: So that if the Magiſtrates Law or Command bee contrary to
+God, or againſt the ſafety and welfare of the people, the command is unrea<g ref="char:EOLhyphen"/>ſonable,
+&amp; ought not to be obeyed: but the command of disbanding the Ar<g ref="char:EOLhyphen"/>my
+at that time, was againſt the walfare and ſafety of the kingdom appears
+by theſe Reaſons. 1. Becauſe it was not for the ſafety of the Kingdom (it
+being divided into 3. parts) and unſatisfied and ready to fall one upon an<g ref="char:EOLhyphen"/>other
+to preſerve themſelves. 2. The burdens and oppreſſions of the king<g ref="char:EOLhyphen"/>dom
+were not removed. 3. Many wel-affected in ſeveral Counties have Pe<g ref="char:EOLhyphen"/>titioned
+them not to di<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>band. 4. The great expence of men, time &amp; treaſuer,
+yea al their Victories ſhould have come to nothing if they had disbanded.
+5. Their Commiſſion required them to protect his Majeſties ſubjects from
+violence and oppreſſion. 6. The Parl. could not, or would not preſerve the
+Army from ruine &amp; deſtruction (although they had preſerved their lives)
+nor ſecure them their Arrears: nature teacheth to preſerve it ſelf, (eſpecially
+when none elſe wil. 7. The whole Army were ſlighted, although they were
+the means of ſaving the Kingdom from ruine &amp; deſtruction: (yet they were
+judged enemies.) 8. They ſuffered ſome of them to be hanged for obeying
+their Commands: may they not expect the ſame when disbanded? 9. There
+was no ſafety in truſting to the Parliaments words and votes, ſeeing they ſo
+differ from the laws (of the Medes and Perſians) if they would they could
+not keep them, becauſe they have loſt the love of the people. 10. The wel-affected
+were put out of place; of truſt, &amp; il-affected put in, (which is a bad
+preſage.) 11. Al means with patience have been uſed, and nothing prevails,
+we have petitioned for our rights &amp; liberties, &amp; they are ſo far from grant<g ref="char:EOLhyphen"/>ing
+them: that they condemn them to be burnt by the Hangman: ſome of us
+they impriſon, by which they fully declare, that they intend not the welfare
+and proſperity of this nation, but to rule &amp; over-rule the people according
+to their wils and pleaſures, (which they call the Prerogative power, or pri<g ref="char:EOLhyphen"/>viledge
+of Parliament. 12. Their principles are deſtructive, they ſay they
+may do what they pleaſe, their wills are Laws, none may call them to ac<g ref="char:EOLhyphen"/>count.
+13. They are not wiſe enough to preſerve themſelves, much leſſe the
+Kingdom. 14. They have betrayed their truſt, &amp; turned theeves and rob<g ref="char:EOLhyphen"/>bers.
+15. They act contrary to the end &amp; intent of a Parl: they conſider not
+the ſighings of the priſoners; they refuſe to hear the complaints of the op<g ref="char:EOLhyphen"/>preſſed,
+and crys of the poor. 16. Their votes haſten our deſtruction, by one
+Vote they would free us from all we have, &amp; make us abſolute ſlaves: Ini<g ref="char:EOLhyphen"/>quitie
+runs down like a mighty ſtream, and they judge them rebels &amp; trai<g ref="char:EOLhyphen"/>tours
+that would ſtop it. 17. They redreſſe not our grievances, inſtead of
+removing them they increaſe them. 18. If the army had disbanded the Parl.
+might have given them the ſame mercy they did the Kings party, having
+them at advantage, ſtripped them of their eſtates, and impriſoned them,
+leaving many who were rich, not enough to procure them horſe bread and
+water, (a practiſe moſt inhumane, and to be abhorred of Heathens) the mer<g ref="char:EOLhyphen"/>cies
+of the wicked are cruel. 19. Although they have ſate this 6. years, we
+are not the better in reſpect of our oppreſſion. 20. They abuſe the whole
+kingdom, what great ſums have been raiſed by Pole-mony, Len<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ing, Lone,
+diverſe kinde of ceſments, the twentieth and fifth part, Fortification mony,
+Weekly meal, Free quarter, Plundering, Compoſition, Cuſtoms, Exciſe, Bi<g ref="char:EOLhyphen"/>ſhops
+lands, Kings revennues; ſome ſay half of the Land rents and reven<g ref="char:EOLhyphen"/>nues
+of the Kingdom have beene ſequeſtered, and yet the Souldiers are not
+paid, nor the publick debts; Maimed Souldiers, Widdows and Fatherleſſe
+by war are not taken care for and Recompenced: It's conceived the State is
+cheated of more then 200000. l. yea, and 100. times as much: the mony there
+is ſo much of it gone beyond the ſeas, that they want mony, and muſt think
+of new ways for more, yet give no accompt of that they have had; I con<g ref="char:EOLhyphen"/>demn
+not all in the Houſe, there are ſome good men in the Parl. who are to
+be priſed. Obj. The Armies demands are unreaſonable. Anſ. None judge
+them ſo but ignorant &amp; corrupt men. Obj. Their demands are contrary to
+Law, and are a breach of the priviledge of Parl. Anſ. They ſeek to remove
+our oppreſſions, and for juſtice againſt evil Members, and which nature
+&amp; Religion requires: &amp; if there be any Statute that is againſt the welfare &amp;
+ſafety of the people, its better broke then kept: is it a priviledge of Parl. to
+protect evil men, that ſo they may be preſerved to do us more miſchief, and
+deſtroy us, we know not how the Parl. came to have a priviledge to deſtroy
+us: are ye ſure that theſe be the Parl.-men, that when the Parl. began, did
+ſpeak for the priviledge of the people, and now are all for priviledge of
+Parl? Is it their priviledge to preſerve in authoritie and places of truſt ty<g ref="char:EOLhyphen"/>rants,
+theeves &amp; oppreſſours; if the Parl. and people differ concerning their
+priviledges; tis pitty the ſword ſhould deſide it; let it rather be put to vote,
+and let the biggeſt vote carry it, the Parliaments vote you know, people
+ſpeak, what ſay you? Anſw. We will not allow it, for we judge it unrea<g ref="char:EOLhyphen"/>ſonable
+to allow them to have a priviledge to deſtroy us: corrupt men will
+ſhelter themſelves from tryal, and under the notion of priviledge of Parl.
+Gentlemen, ye ſee its concluded by the major votes, that its no priviledge
+Obj. The Army and the reſt of the Independents can turne for their own
+ends, they were againſt the King and his party and the Biſhops, and now
+they are for them all. Anſw. We were not againſt him, but againſt his pro<g ref="char:EOLhyphen"/>ceedings
+(wee hate tyranny and oppreſſion in all men) the late act of the
+King, in refuſing, his liberty, yea Crown, rather then to act contrary to his
+Conſcience, hath got him much credit and love; it appears he diſlike; op<g ref="char:EOLhyphen"/>preſſion
+for matter of Conſcience, he ſhewed more wiſdom and Conſcience
+in it, then all they did who knew his judgement and yet would urge him:
+this his act makes us think he was not ſo bad as the prieſts &amp;c. reported, or
+elſe he is better then he was: &amp; as for his party, its apparent they are wrong<g ref="char:EOLhyphen"/>ed,
+and are not like to be righted by them (who have abuſed them) they
+have ſuffered enough for their miſtake, for my part (though I am none of
+them, yet) I think they ought to be let out of priſon, and to have their eſtates
+again, and enjoy as much liberty as others: as for the Beſhops our mind is
+not changed concerning their calling and perſecution, and had they not
+troubled us, we had not petitioned againſt them: you know the Indepen<g ref="char:EOLhyphen"/>dents
+principle is, that Biſhops and Presbyters ſhould have as much liber<g ref="char:EOLhyphen"/>ty
+as themſelves: let each take his way, and be content to be quiet, and let
+others alone, and do as we would be done to; al men cannot be of one mind,
+and until men who differ in opinion may enjoy their eſtates and live qui<g ref="char:EOLhyphen"/>etly,
+this Kingdom can have no peace. Obj. The Army ſpeak well but
+they are not to be beleeved. Anſw. Then we may not beleeve any, they are
+Englands tryed friends, who have long endured the hardſhip and extremi<g ref="char:EOLhyphen"/>ties
+of war, and often hazarded their lives for the ſafety of this nation, ſuch
+as condemn and diſtruſt them do ill require them. Obj. Many (yea the
+Prieſts) ſay, they will kill and plunder us. Anſw. they are full of deluſions
+and lyes; have the Army ever done ſo? have they not been at Cambridge,
+Berry, Ipſwich, &amp;c. where there is much treaſure? yet did they not kill nor
+plunder any. Obj. Its not reaſonable to reſiſt authority, and that with their
+Armes. Anſw. They reſiſt not authoritie, but tyranny; the Armes are not
+theirs, but the Kingdoms who paid for them. Obj. If the Army be friends
+to England, why do they not what they intend quickly? Anſw. I am cre<g ref="char:EOLhyphen"/>dibly
+inform'd the Army cannot haſten more then they do, they doe more
+then you are aware on: do you judge them idle becauſe you do not ſee what
+they do? they are not ignorant that our oppeſſions are great, and that the
+Kingdom is almoſt undone, and that our neceſſities will admit of no delay:
+Reſt ſatisfied, they prefer the Kingdoms ſafety &amp; welfare before their own
+lives; ſo that Gods command, Reaſon, Religion, Conſcience, their friends
+welfare and happines, their own honour and ſafety, all calls upon them to
+be harmleſſe and active; they have cauſed the Parl. to reform ſomthing al<g ref="char:EOLhyphen"/>ready,
+we truſt God will preſerve them, and effect great things by them, and
+cauſe them to be (as they have been) a bleſſing and comfort to this Nation.
+Obj. But the Country is oppreſſed with them, &amp;c. Anſw. Then let the
+Country help, and put the work to an end, and if the common ſouldiers
+will not be ruled, the Country muſt help the Commanders to do it, who I
+hope, as they have cauſe, ſo they will have a great care to ſee that none be
+oppreſſed and abuſed: Let not the Army be all blamed for the fault; of a
+few, and perhaps un-avoidable: if any of this Army commit a fault, the
+Kingdom is like to ring of it, which will be a great grief to good men.</p>
+            <p>O England, England! what art thou? aſleep or willing to be undone
+and inſlaved with your wives and children and poſterity? can ye ſit ſtill
+and ſee that ye are deluded, betrayed, oppreſſed, burdened &amp; killed, do you
+not conſider how many of you ſuffer &amp; languiſh in miſery? is not the king<g ref="char:EOLhyphen"/>dom
+almoſt undone? and yet the Scots are ſent for, &amp; the prieſts endeavour
+a new war againſt the Army, that have been a means to preſerve you: have
+you not had war enough? that coſt deer enough: would you have England
+like Germany? if we have more wars this Kingdom will be quite undone:
+if you muſt fight, fight againſt them who are your enemies, &amp; not againſt
+your good friends: I truſt you will not nor cannot in reaſon nor conſcience
+juſtice and honour, fight againſt them who have ſacrificed their lives for
+you, and endeavour the Kingdomes good: do you not ſee the Parl. ref<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſe to
+remove your grievances (how long wilt thou ſuffer thy ſelf to be charmed
+(cheated) with fair words and promiſes of treacherous and deceitful men:
+why then do you not remove them your ſelves: ye may be free if ye will,
+be free now and ever, now or never, this is the ſeventh year, the year of
+Iubilie, ſuch as refuſe freedom now deſerve to have their ears bored, and to
+be ſlaves for ever, Riſe quickly (and it will be quickly done) or elſe your
+liberties are quite gon, and iron chains locked on: wil ye ſuffer your ſelves
+to be ſo abuſed as ye are: the next time ye chuſe Parliament-men in many
+places, they had need chuſe men more wiſe and faithfull, and not as ſome
+have done, chuſe fooles and knaves, becau<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e they are great ones: they are
+not aware of the wrong they do to themſelves and the Kingdom by it.</p>
+            <p>Queſt. Reſolved, That the Parl. did ſecretly by their proceedings bid
+the army not disband: that the Parl. hath ſleighted more of their votes then
+the Army, and that when neceſſity requires the ſouldiers ought to keepe
+their ranks, and follow their leaders; that the Parl. practiſes contradict
+their pretences: that they keep not their oaths, vowes, proteſtations and
+promiſes, and therefore are not to be regarded, much leſſe truſted unto, that
+many of them deſerve to bee thruſt out of the houſe with contempt, as un<g ref="char:EOLhyphen"/>worthy
+for ever to ſit there more, for their theft, treachery &amp; perjury &amp; be<g ref="char:EOLhyphen"/>traying
+their truſt: is it not better for the Kingdome to have a Parl. every
+year, &amp; that may ſit but 6 moneths? So much for this time: Farewell.</p>
+         </div>
+      </body>
+      <back>
+         <div type="to_the_reader">
+            <p>It is deſired that this be Set up, in Pariſh Churches, and Publick places, throughout this Kingdom and dominion of Wales, for their Information, &amp;c.</p>
+         </div>
+         <div type="colophon">
+            <p>The ſecond Edition, corrected and enlarged. 1647.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
